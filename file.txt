@@ -1,0 +1,50 @@
++-----------------------------------------+
+|  1. FOUNDATIONS      (Now to Dec)       |
+|     Git, one language, one small project|
++-----------------------------------------+
+                    |
+                    v
++-----------------------------------------+
+|  2. GET INVOLVED     (Jan to Feb)       |
+|     Pick 3-5 orgs, fix good first issues|
++-----------------------------------------+
+     Gate: 2-3 merged PRs in one org
+                    |
+                    v
++-----------------------------------------+
+|  3. RESEARCH + IDEAS (Feb to Mar)       |
+|     Study past projects, shortlist ideas|
++-----------------------------------------+
+                    |
+                    v
++-----------------------------------------+
+|  4. WRITE PROPOSAL   (March)            |
+|     Timeline, design, risks, feedback   |
++-----------------------------------------+
+                    |
+                    v
++-----------------------------------------+
+|  5. SUBMIT + WAIT    (April)            |
+|     Submit before deadline              |
++-----------------------------------------+
+           |                     |
+     Accepted              Not accepted
+           |                     |
+           v                     v
++------------------------+  +-------------------------+
+| 6. CODING PERIOD       |  | Keep contributing and   |
+|    (May to August)     |  | reapply next year       |
+|    Weekly reports      |  +-------------------------+
++------------------------+
+           |
+           v
++-----------------------------------------+
+|  7. FINAL PROJECT    (September)        |
+|     Document, polish, hand over         |
++-----------------------------------------+
+                    |
+                    v
++-----------------------------------------+
+|  8. YEAR 3: GSoC ON YOUR RESUME         |
+|     Repeat contributor or mentor        |
++-----------------------------------------+
